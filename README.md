@@ -4,7 +4,7 @@ this is a KeeWeb application developed on pure bash script, as the final project
 KeeWeb is a desktop password management solution, you can google it to know about the official software.
 I do this project to realize the main functions of the application.
 
-you need to install yad in advance: sudo apt-get install -y yad
+Better run it under linux system, you need to install yad in advance: sudo apt-get install -y yad
 
 run the application by entering command: bash page_login.sh
 
